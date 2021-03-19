@@ -1,4 +1,5 @@
-<h2>Hey bro!</h2>
+<h2>Hello～</h2>
+This is fht(fang he ta/方核桃/Jinxu) from china, nice to meet you!
 
 <p>
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=imfht&show_icons=true&hide_border=true&theme=buefy">
